@@ -13,7 +13,8 @@
   "dependencies": {
     "tw-elements": "^2.0.0",
     "vue": "^3.4.21",
-    "vue-router": "^4.0.13"
+    "vue-router": "^4.0.13",
+    "vue-youtube": "^1.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",

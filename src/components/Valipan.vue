@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="relative h-screen overflow-hidden max-h-[400px] flex items-center justify-center">
-      <header-vue/>
+      <!-- <header-vue/> -->
       <div class="relative z-10">
         <div class="overlay w-screen flex items-center z-20 h-screen relative">
           <div class="w-full h-sceen absolute px-6 lg:px-12 order-2 md:order-1">
