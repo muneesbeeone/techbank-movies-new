@@ -3,7 +3,7 @@
     <nav class="bg-transparent">
       <div class="max-w-[1730px] flex flex-wrap items-center justify-between mx-auto lg:px-10 px-3 p-4">
 
-        <a href="index.html" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <a href="/package.json" class="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="../assets/img/tech-logo.png" class="h-12 lg:h-16" alt="Techbank Movies Logo" />
         </a>
         <button data-collapse-toggle="navbar-default" type="button"
