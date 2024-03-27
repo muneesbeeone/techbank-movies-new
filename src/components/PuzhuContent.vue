@@ -14,13 +14,13 @@
         </div>
       </div>
       <div class="video-container">
-        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/puzhu-banner.webp" class="object-cover w-full h-full" />
+        <img style="object-position: right;" loading="lazy" src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/puzhu-banner.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
       <div class="grid md:grid-cols-3 grid-cols-1 gap-5">
         <div v-for="(item, i) in images" class="mx-auto card" :key="i">
-          <img class="rounded-xl" :src="`https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/${item}`" />
+          <img class="rounded-xl" loading="lazy" :src="`https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/${item}`" />
         </div>
       </div>
     </div>

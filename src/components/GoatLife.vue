@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="video-container">
-        <img loading="lazy" src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/goat-life-banner1.webp" class="object-cover w-full h-full" />
+        <img style="object-position: right;" loading="lazy" src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/goat-life-banner1.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
