@@ -14,13 +14,13 @@
         </div>
       </div>
       <div class="video-container">
-        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/goat-life-banner.png" class="object-cover w-full h-full" />
+        <img loading="lazy" src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/goat-life-banner1.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
       <div class="grid md:grid-cols-3 grid-cols-1 gap-5">
         <div v-for="(item, i) in images" class="mx-auto card" :key="i">
-          <img class="rounded-xl" :src="`https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/${item}`" />
+          <img class="rounded-xl" loading="lazy" :src="`https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/goat-life/${item}`" />
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@ export default {
     };
   },
   created() {
-    this.images = ['goat-life(1).png','goat-life(2).png','goat-life(3).png']
+    this.images = ['goat-life(1).webp','goat-life(2).webp','goat-life(3).webp']
   },
 };
 </script>

@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="video-container">
-        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/movie-2018/2018-banner.png" class="object-cover w-full h-full" />
+        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/movie-2018/2018-banner.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
@@ -39,15 +39,15 @@ export default {
   },
   created() {
     this.images = [
-            "movie-2018(1).png",
-            "movie-2018(2).png",
-            "movie-2018(3).png",
-            "movie-2018(4).png",
-            "movie-2018(5).png",
-            "movie-2018(6).png",
-            "movie-2018(7).png",
-            "movie-2018(8).png",
-            "movie-2018(9).png",
+            "movie-2018(1).webp",
+            "movie-2018(2).webp",
+            "movie-2018(3).webp",
+            "movie-2018(4).webp",
+            "movie-2018(5).webp",
+            "movie-2018(6).webp",
+            "movie-2018(7).webp",
+            "movie-2018(8).webp",
+            "movie-2018(9).webp",
         ];
   },
 };

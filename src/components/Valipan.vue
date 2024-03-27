@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="video-container">
-        <img src="../assets/img/valiban/valiban-banner.png" class="object-cover w-full h-full" />
+        <img src="../assets/img/valiban/valiban-banner.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
@@ -39,15 +39,15 @@ export default {
   },
   created() {
     this.images = [
-      "valiban1.png",
-      "valiban2.png",
-      "valiban3.png",
-      "valiban4.png",
-      "valiban5.png",
-      "valiban6.png",
-      "valiban7.png",
-      "valiban8.png",
-      "valiban9.png",
+      "valiban1.webp",
+      "valiban2.webp",
+      "valiban3.webp",
+      "valiban4.webp",
+      "valiban5.webp",
+      "valiban6.webp",
+      "valiban7.webp",
+      "valiban8.webp",
+      "valiban9.webp",
     ];
   },
 };

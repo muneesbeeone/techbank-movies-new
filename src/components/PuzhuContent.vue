@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="video-container">
-        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/puzhu-banner.png" class="object-cover w-full h-full" />
+        <img src="https://0xtech-cdn.s3-eu-west-1.amazonaws.com/dwallet-referral/techbank-movies/puzhu/puzhu-banner.webp" class="object-cover w-full h-full" />
       </div>
     </div>
     <div class="min-h-screen relative w-full lg:px-12 py-10 lg:py-20 px-3 sm:py-38">
@@ -38,9 +38,7 @@ export default {
     };
   },
   created() {
-    this.images = [
-
-        ];
+    this.images = ['puzhu1.webp','puzhu2.webp'];
   },
 };
 </script>
