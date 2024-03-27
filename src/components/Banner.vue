@@ -8,7 +8,7 @@
                       <h1
                           class="font-black tracking-tight text-white text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl ">
                           Elevate Your Movie Experience</h1>
-                      <p class="text-md lg:text-lg leading-8 text-white">HOPE SONG | AR Rahman | The Goatlife | Blessy</p>
+                      <p class="text-md lg:text-lg leading-8 text-white">HOPE SONG | AR RAHMAN | THE GOATLIFE | BLESSY</p>
                       <a href="https://www.youtube.com/watch?v=BJ8hdCxvsIE" target="_blank" class="ring-1 w-fit ring-white hover:bg-white/20 rounded-3xl mx-auto md:mx-0 py-2 px-2 flex gap-2 items-center text-white transition duration-300 ease-in-out">
                           <img class="h-8" src="../assets/img/play-button.svg" alt="">
                           Watch Now
