@@ -27,12 +27,12 @@
         <div
           class="absolute text-sm lg:text-md w-fit text-white border-l-2 px-3 pr-5  mb-10 border-white  space-y-3 flex justify-end flex-col bottom-0 right-0"
         >
-          <a href="https://www.facebook.com/profile.php?id=61556745997800" target="_blank"
+          <a href="#" target="_parent"
             ><i class='bx bxl-facebook-square'></i></a
           >
           <a href="https://www.instagram.com/techbankmovieslondon_" target="_blank"><i class='bx bxl-instagram'></i></a>
-          <a href="https://youtube.com/@techbankmovies?feature=shared" target="_blank"><i class='bx bxl-youtube'></i></a>
-          <a href="https://www.linkedin.com/company/techbank-movies-london" target="_blank"
+          <a href=" https://youtube.com/@techbankmovieslondon_?si=mvqcIxBqZSdCW8TX" target="_blank"><i class='bx bxl-youtube'></i></a>
+          <a href="#" target="_parent"
             ><i class='bx bxl-linkedin'></i></a
           >
         </div>
@@ -91,21 +91,11 @@
 
 </template>
 <script>
-import Youtube from "vue-youtube";
 export default {
-  components: {
-    Youtube,
-  },
   data() {
     return {
       isModalOpen: false,
-      videoId: "BJ8hdCxvsIE`",
     };
-  },
-  computed: {
-    videoUrl() {
-      return `https://www.youtube.com/embed/${this.videoId}`;
-    }
   },
   methods: {
     openModal() {
