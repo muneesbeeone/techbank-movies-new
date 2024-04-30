@@ -1,5 +1,5 @@
 <template>
-    <div id="about"
+    <div
         class="bg-[#00021B]  max-h-[1080px] min-h-screen relative w-full flex lg:flex-nowrap flex-wrap-reverse lg:px-12 py-10 lg:py-20 sm:py-38 justify-between items-center">
         <img class="absolute top-0 right-0" src="../assets/img/top-edge.png" alt="Techbank" />
         <img class="absolute bottom-0 left-0" src="../assets/img/bottom-edge.png" alt="Movies" />
